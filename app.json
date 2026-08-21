@@ -1,1 +1,15 @@
 
+{
+  "expo": {
+    "name": "SWARMSATS",
+    "slug": "swarmsats",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "swarmsats",
+    "platforms": ["android"],
+    "android": {
+      "package": "com.swarmsats.app"
+    },
+    "plugins": ["expo-router"]
+  }
+}
